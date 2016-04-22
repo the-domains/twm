@@ -1,16 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: In the beginning...
-datePublished: '2016-04-22T20:23:09.645Z'
-dateModified: '2016-04-22T20:23:04.624Z'
-title: ''
+description: Table of Contents
+datePublished: '2016-04-22T22:32:21.158Z'
+dateModified: '2016-04-22T22:32:18.793Z'
+title: In the Beginning
 author: []
-sourcePath: _posts/2016-04-22-in-the-beginning.md
-published: true
 authors: []
 publisher:
   name: null
@@ -18,16 +16,42 @@ publisher:
   url: null
   favicon: null
 starred: false
+sourcePath: _posts/2016-04-22-in-the-beginning.md
+published: true
 url: in-the-beginning/index.html
 _type: Article
 
 ---
-In the beginning...
+# In the Beginning
 
-There were grunts, growls, coughs, and sneezes. Then came sticks, stones, and bones. From pictographs, to lithographs, and onto the telegraph. What followed were many mediums and forms of communication. From paper to digital - simple to complex.
+Table of Contents
 
-The observed cannot be the thing observed when on the journey to find the cause of causes by material methods, only by individual experience can such an interrelation between finite and infinite; imperfect and perfect; and, man and God be self-observed. There needs to be a level of transcends from what is observed for complete analysis.
+- Before time, space, and energy 
 
-Creativity and expression describe artistry and by such do we reveal to the best of our ability to illustrate such an experience.
+* The I AM 
 
-To understand creativity is to understand Prince! On Thursday, April 21, 2016 - Prince Roger Nelson dies at 57
+* The Primal Differentials of Reality 
+
+* The Personality of Love 
+
+* Volitional Will 
+
+- The Universal Father 
+
+* - The First Source and Center 
+
+- The Eternal Son 
+
+* - The Second Source and Center 
+
+- The Isle of Paradise 
+
+* - The Divine Residence 
+
+- The Infinite Spirit 
+
+* - The Third Source and Center 
+
+- The Central Universe of Havona 
+
+* - The Universe of Universes (Heaven of Heavens)
