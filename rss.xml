@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[twm]]></title>
         <description><![CDATA[twm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/twm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 19:51:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 20:20:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/twm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>In the beginning...</p>]]></description>
-            <link>undefinedin-the-beginning/index.html</link>
+            <link>https://thegrid.ai/twm/in-the-beginning/index.html</link>
             <guid isPermaLink="false">032a32a4-4022-42e3-afc1-3fc3b0206b50</guid>
-            <pubDate>Fri, 22 Apr 2016 19:51:10 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2016 20:20:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
