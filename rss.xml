@@ -8,13 +8,6 @@
         <atom:link href="https://thegrid.ai/twm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Grid Links</p>]]></description>
-            <link>https://thegrid.ai/twm/zendesk-helpful-information/index.html</link>
-            <guid isPermaLink="false">f28c175f-0d45-416f-8923-d0e293322e7f</guid>
-            <pubDate>Fri, 22 Apr 2016 22:22:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>In the beginning...</p>]]></description>
             <link>https://thegrid.ai/twm/in-the-beginning/index.html</link>
             <guid isPermaLink="false">032a32a4-4022-42e3-afc1-3fc3b0206b50</guid>
